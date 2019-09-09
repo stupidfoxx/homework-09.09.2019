@@ -1,0 +1,21 @@
+.button {
+    color: #fff;
+    background: linear-gradient(to right, orange, purple);
+    width: 120px;
+    height: 45px;
+    cursor: pointer;
+    border: none;
+    border-radius: 13%;
+    text-align: center;
+}
+
+.button:hover {
+    background: linear-gradient(to left, orange, purple);
+}
+
+div {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 200px;
+}
